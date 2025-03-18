@@ -1,3 +1,14 @@
-.h1 {
+#elbana {
     text-align: center;
+    color: rebeccapurple;
+    padding-top: 8em;
+}
+
+#elbana2 {
+    text-align: center;
+    color: rebeccapurple;
+}
+
+#main {
+    background-color: violet;
 }
